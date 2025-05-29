@@ -1044,4 +1044,11 @@
     "sProgramKey": "25438546789662975",
     "isSkipOtp": true
   }
+  ,
+  "INFIDEV1": {
+    "padmBaseUrl": "http://172.16.20.42:1005",
+    "companyName": "Devloper_Testing",
+    "sProgramKey": "25438546789662975",
+    "isSkipOtp": true
+  }
 }
