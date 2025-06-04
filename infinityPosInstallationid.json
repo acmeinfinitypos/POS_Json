@@ -1067,5 +1067,12 @@
       "companyName":"New Pankaj Jew Beed",
       "sProgramKey":"25438546789662975",
       "isSkipOtp":true
+},
+"GKJ1":{
+      "padmBaseUrl":"http://192.168.1.39:1005",
+      "companyName":"Gaurav Kothari Jewellers",
+      "sProgramKey":"25438546789662975",
+      "isSkipOtp":true
 }
+  
 }
