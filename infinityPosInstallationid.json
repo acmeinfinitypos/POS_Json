@@ -1073,6 +1073,18 @@
       "companyName":"Gaurav Kothari Jewellers",
       "sProgramKey":"25438546789662975",
       "isSkipOtp":true
+},
+"BAS1":{
+      "padmBaseUrl":"http://192.168.0.75:1005",
+      "companyName":"babar and Sons jew",
+      "sProgramKey":"25438546789662975",
+      "isSkipOtp":true
+},
+"SAS1":{
+      "padmBaseUrl":"http://192.168.31.100:1005",
+      "companyName":"S and S jewellers",
+      "sProgramKey":"25438546789662975",
+      "isSkipOtp":true
 }
   
 }
