@@ -5,9 +5,9 @@
       "sProgramKey":"25438546789662976",
       "isSkipOtp":true
    },
-  "INFI3":{
-      "padmBaseUrl":"http://172.16.22.108:1005",
-      "companyName":"AcmeInfiTestThree",
+  "INFI3NEW":{
+      "padmBaseUrl":"http://172.16.23.235:1005",
+      "companyName":"InfiDevTest3",
       "sProgramKey":"25438546789662975",
       "isSkipOtp":true
    },
