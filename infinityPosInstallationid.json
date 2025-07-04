@@ -583,7 +583,7 @@
     "isSkipOtp": true
   },
   "KHJW1": {
-    "padmBaseUrl": "http://192.168.29.88:1005",
+    "padmBaseUrl": "http://192.168.29.239:1005",
     "companyName": "Kothari Jew",
     "sProgramKey": "25438546789662975",
     "isSkipOtp": true
