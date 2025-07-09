@@ -1163,6 +1163,12 @@
     "companyName": "Haraa Gold and Diamonds Hydrabad",
     "sProgramKey": "25438546789662975",
     "isSkipOtp": true
+  },
+    "RJA1": {
+    "padmBaseUrl": "http://192.168.0.38:1005",
+    "companyName": "Ravi Jewellers ,Amlaner",
+    "sProgramKey": "25438546789662975",
+    "isSkipOtp": true
   }
   
 }
