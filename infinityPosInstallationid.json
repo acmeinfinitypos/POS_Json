@@ -1163,6 +1163,12 @@
     "companyName": "Babar and sons",
     "sProgramKey": "25438546789662978",
     "isSkipOtp": true
+  },
+  "INFI2NEW": {
+    "padmBaseUrl": "http://172.16.23.121:1005",
+    "companyName": "Babar and sons",
+    "sProgramKey": "25438546789662978",
+    "isSkipOtp": true
   }
   
 }
