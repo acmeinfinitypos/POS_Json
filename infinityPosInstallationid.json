@@ -1164,9 +1164,9 @@
     "sProgramKey": "25438546789662978",
     "isSkipOtp": true
   },
-  "INFI4NEW": {
+  "INFI7NEW": {
     "padmBaseUrl": "http://192.168.137.1:1005",
-    "companyName": "Babar and sons",
+    "companyName": "InfiTest",
     "sProgramKey": "25438546789662978",
     "isSkipOtp": true
   }
