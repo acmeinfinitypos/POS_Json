@@ -1199,6 +1199,12 @@
     "companyName": "Shri kalki Jewellers",
     "sProgramKey": "25438546789662978",
     "isSkipOtp": true
+  },
+  "SSSJ1": {
+    "padmBaseUrl": "http://192.168.1.9:1005",
+    "companyName": "Shri Shiv Shankar Jewellers",
+    "sProgramKey": "25438546789662978",
+    "isSkipOtp": true
   }
   
 }
