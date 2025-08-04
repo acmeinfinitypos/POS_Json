@@ -1229,6 +1229,12 @@
     "companyName": "Ashirwad Silver ",
     "sProgramKey": "25438546789662978",
     "isSkipOtp": true
+  },
+  "ASN2": {
+    "padmBaseUrl": "http://122.170.240.245:1005",
+    "companyName": "Ashirwad Silver ",
+    "sProgramKey": "25438546789662978",
+    "isSkipOtp": true
   }
   
 }
