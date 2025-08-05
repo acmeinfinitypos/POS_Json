@@ -1219,7 +1219,7 @@
     "isSkipOtp": true
   },
   "MJIJ1": {
-    "padmBaseUrl": "http://192.168.1.110:1005",
+    "padmBaseUrl": "http://192.168.1.10:1005",
     "companyName": "mahalaxmi Jewellers ichalkaranji",
     "sProgramKey": "25438546789662978",
     "isSkipOtp": true
