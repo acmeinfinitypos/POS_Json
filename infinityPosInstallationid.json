@@ -475,7 +475,7 @@
     "isSkipOtp": true
   },
   "MVJW1": {
-    "padmBaseUrl": "http://192.168.1.103:1005",
+    "padmBaseUrl": "http://192.168.1.102:1005",
     "companyName": "Mahalaxmi Varma Jew",
     "sProgramKey": "25438546789662975",
     "isSkipOtp": true
@@ -1081,7 +1081,7 @@
       "isSkipOtp":true
 },
   "GSJH2": {
-    "padmBaseUrl": "http://192.168.29.218:1005",
+    "padmBaseUrl": "http://192.168.1.90:1005",
     "companyName": "Gokkulam signature jewellers, Hyderabad",
     "sProgramKey": "25438546789662975",
     "isSkipOtp": true
