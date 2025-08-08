@@ -1237,7 +1237,7 @@
     "isSkipOtp": true
   },
   "MAJC1": {
-    "padmBaseUrl": "http://192.168.1.101:1005",
+    "padmBaseUrl": "http://192.168.1.6:1005",
     "companyName": "Murlidhar A Jewellers ",
     "sProgramKey": "25438546789662978",
     "isSkipOtp": true
