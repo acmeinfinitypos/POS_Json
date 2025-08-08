@@ -1241,6 +1241,12 @@
     "companyName": "Murlidhar A Jewellers ",
     "sProgramKey": "25438546789662978",
     "isSkipOtp": true
+  },
+  "NDJN1": {
+    "padmBaseUrl": "http://192.168.1.43:1005",
+    "companyName": "New Dhiraj Jewellers Nagpur",
+    "sProgramKey": "25438546789662978",
+    "isSkipOtp": true
   }
   
 }
