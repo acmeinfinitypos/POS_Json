@@ -1247,6 +1247,12 @@
     "companyName": "New Dhiraj Jewellers Nagpur",
     "sProgramKey": "25438546789662978",
     "isSkipOtp": true
+  },
+  "MHSH1": {
+    "padmBaseUrl": "http://192.168.29.1:1005",
+    "companyName": "M H Shah jew",
+    "sProgramKey": "25438546789662978",
+    "isSkipOtp": true
   }
   
 }
