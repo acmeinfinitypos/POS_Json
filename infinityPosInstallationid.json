@@ -1261,7 +1261,7 @@
     "isSkipOtp": true
   },
   "FGJJ1": {
-    "padmBaseUrl": "http://192.168.1.34:1005",
+    "padmBaseUrl": "http://192.168.1.33:1005",
     "companyName": "Fulchand Gulabchand Jewellers",
     "sProgramKey": "25438546789662975",
     "isSkipOtp": true
