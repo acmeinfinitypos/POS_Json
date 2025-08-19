@@ -1277,6 +1277,18 @@
     "companyName": "Pramod jew",
     "sProgramKey": "25438546789662975",
     "isSkipOtp": true
+  },
+  "GIRJ1": {
+    "padmBaseUrl": "http://192.168.100.199:1005",
+    "companyName": "Girija jew",
+    "sProgramKey": "25438546789662975",
+    "isSkipOtp": true
+  },
+  "CIYA1": {
+    "padmBaseUrl": "http://45.115.184.36:1005",
+    "companyName": "Ciya Chain jew",
+    "sProgramKey": "25438546789662975",
+    "isSkipOtp": true
   }
   
 }
