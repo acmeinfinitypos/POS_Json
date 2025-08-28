@@ -1302,11 +1302,12 @@
     "sProgramKey": "25438546789662975",
     "isSkipOtp": true
   },
-  "PRM1": {
-    "padmBaseUrl": "http://192.168.10.48:1005",
-    "companyName": "Pramod jew",
+  "DGKJ1": {
+    "padmBaseUrl": "http://192.168.0.115:1005",
+    "companyName": "Devidas Govindrao Karande jew",
     "sProgramKey": "25438546789662975",
     "isSkipOtp": true
   }
+
   
 }
