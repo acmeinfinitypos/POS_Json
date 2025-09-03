@@ -60,7 +60,7 @@
       "isSkipOtp":true
    },
    "INFIS1":{
-      "padmBaseUrl":"http://172.16.2.9:1005",
+      "padmBaseUrl":"http://172.16.2.196:1005",
       "companyName":"Acme Infi Testing",
       "sProgramKey":"25438546789662975",
       "isSkipOtp":true
