@@ -1337,6 +1337,12 @@
     "companyName": "Mahalakshmi jewellery,pallipatu",
     "sProgramKey": "25438546789662975",
     "isSkipOtp": true
+  },
+  "GGD1": {
+    "padmBaseUrl": "http://192.168.31.149:1005",
+    "companyName": "Gurukrupa Gold  And Diamonds",
+    "sProgramKey": "25438546789662975",
+    "isSkipOtp": true
   }
 
   
