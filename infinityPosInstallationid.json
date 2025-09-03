@@ -1343,6 +1343,12 @@
     "companyName": "Gurukrupa Gold  And Diamonds",
     "sProgramKey": "25438546789662975",
     "isSkipOtp": true
+  },
+  "RGD1": {
+    "padmBaseUrl": "http://192.168.0.11:1005",
+    "companyName": "Roy gold and diamond",
+    "sProgramKey": "25438546789662975",
+    "isSkipOtp": true
   }
 
   
