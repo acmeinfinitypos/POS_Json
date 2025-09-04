@@ -1322,7 +1322,19 @@
   },
   "MJPR1": {
     "padmBaseUrl": "http://localhost:1005",
-    "companyName": "Mahalakshmi jewellery,pallipatu",
+    "companyName": "Mahalakshmi Gold jewellery,pallipatu",
+    "sProgramKey": "25438546789662975",
+    "isSkipOtp": true
+  },
+  "MJPR2": {
+    "padmBaseUrl": "http://192.168.1.4:1005",
+    "companyName": "Mahalakshmi Silver jewellery,pallipatu",
+    "sProgramKey": "25438546789662975",
+    "isSkipOtp": true
+  },
+  "MJPR3": {
+    "padmBaseUrl": "http://192.168.29.197:1005",
+    "companyName": "Mahalakshmi jewellery,Podaturpet",
     "sProgramKey": "25438546789662975",
     "isSkipOtp": true
   },
