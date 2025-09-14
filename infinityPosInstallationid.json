@@ -1385,6 +1385,12 @@
     "companyName": "MSR Jew, Bagalkot",
     "sProgramKey": "25438546789662975",
     "isSkipOtp": true
+    },
+  "MSRJ1": {
+    "padmBaseUrl": "http://103.199.209.3:1005",
+    "companyName": "MSR Jew, Bagalkot",
+    "sProgramKey": "25438546789662975",
+    "isSkipOtp": true
   }
 
   
