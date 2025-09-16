@@ -1369,7 +1369,7 @@
     "isSkipOtp": true
    },
   "SJNJ2": {
-    "padmBaseUrl": "http://desktop-2vi55u1:1005",
+    "padmBaseUrl": "http://192.168.1.15:1005",
     "companyName": "Sanket Jew",
     "sProgramKey": "25438546789662975",
     "isSkipOtp": true
