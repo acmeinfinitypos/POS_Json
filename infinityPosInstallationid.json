@@ -1421,6 +1421,13 @@
     "companyName": "AH Pokharna, Ahilyanagar",
     "sProgramKey": "25438546789662975",
     "isSkipOtp": true
+    },
+  "GJCS1": {
+    "padmBaseUrl": "http://192.168.3.20:1005",
+    "companyName": "Gurukrupa Jew, Sambhajinagar",
+    "sProgramKey": "25438546789662975",
+    "isSkipOtp": true
+ 
   }
 
   
