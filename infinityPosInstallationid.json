@@ -1427,6 +1427,12 @@
     "companyName": "Gurukrupa Jew, Sambhajinagar",
     "sProgramKey": "25438546789662975",
     "isSkipOtp": true
+    },
+  "MJB1": {
+    "padmBaseUrl": "http://192.168.0.19:1005",
+    "companyName": "Monu Jewellers, Bihar",
+    "sProgramKey": "25438546789662975",
+    "isSkipOtp": true
  
   }
 
