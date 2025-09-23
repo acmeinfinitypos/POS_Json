@@ -1445,6 +1445,12 @@
     "companyName": "New Ambiwale Jew, Chh.Sambhajinagar",
     "sProgramKey": "25438546789662975",
     "isSkipOtp": true
+    },
+  "SJK1": {
+    "padmBaseUrl": "http://192.168.0.194:1005",
+    "companyName": "Sushila Jewellers, Karad",
+    "sProgramKey": "25438546789662975",
+    "isSkipOtp": true
  
   }
 
