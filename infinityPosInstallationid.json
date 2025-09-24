@@ -751,7 +751,7 @@
     "isSkipOtp": true
   },
   "OJWB1": {
-    "padmBaseUrl": "http://192.168.1.214:1005",
+    "padmBaseUrl": "http://192.168.1.121:1005",
     "companyName": "Omkar jewellers, Beed",
     "sProgramKey": "25438546789662975",
     "isSkipOtp": true
