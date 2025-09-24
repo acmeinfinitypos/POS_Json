@@ -1435,7 +1435,7 @@
     "isSkipOtp": true
     },
   "MJBB1": {
-    "padmBaseUrl": "http://192.168.0.110:1005",
+    "padmBaseUrl": "http://165.101.143.65:1005",
     "companyName": "Mutha Jewellers, badlapur",
     "sProgramKey": "25438546789662975",
     "isSkipOtp": true
