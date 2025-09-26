@@ -1451,6 +1451,12 @@
     "companyName": "Sushila Jewellers, Karad",
     "sProgramKey": "25438546789662975",
     "isSkipOtp": true
+    },
+  "SGJD1": {
+    "padmBaseUrl": "http://192.168.0.194:1005",
+    "companyName": "Shri Ganesh Jewellers, Dhule",
+    "sProgramKey": "25438546789662975",
+    "isSkipOtp": true
  
   }
 
