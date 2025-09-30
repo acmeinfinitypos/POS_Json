@@ -1463,6 +1463,12 @@
     "companyName": "Shivaji Appa Jewellers, Karad 2",
     "sProgramKey": "25438546789662975",
     "isSkipOtp": true
+    },
+  "DJDN1": {
+    "padmBaseUrl": "http://192.168.1.155:1005",
+    "companyName": "Deepak Jewellers, Dhule",
+    "sProgramKey": "25438546789662975",
+    "isSkipOtp": true
  
   }
 
