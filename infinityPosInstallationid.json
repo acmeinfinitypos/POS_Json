@@ -1485,7 +1485,7 @@
  
   },
   "RGDB2": {
-    "padmBaseUrl": "http://192.168.2.124:1006",
+    "padmBaseUrl": "http://192.168.2.124:1005",
     "companyName": "Roy Gold And Diamonds, Bengluru",
     "sProgramKey": "25438546789662975",
     "isSkipOtp": true 
