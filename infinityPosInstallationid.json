@@ -1494,6 +1494,12 @@
     "companyName": "Mangal Alankar Jewellers,Nipani",
     "sProgramKey": "25438546789662975",
     "isSkipOtp": true
+    },
+  "TVKJ1": {
+    "padmBaseUrl": "http://192.168.0.144:1006",
+    "companyName": "Tushar vilasrao Karande Jew, Wardha",
+    "sProgramKey": "25438546789662975",
+    "isSkipOtp": true
  
   }
 
