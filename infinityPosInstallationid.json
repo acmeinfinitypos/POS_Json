@@ -1500,7 +1500,12 @@
     "companyName": "Tushar vilasrao Karande Jew, Wardha",
     "sProgramKey": "25438546789662975",
     "isSkipOtp": true
- 
+   },
+  "HJS1": {
+    "padmBaseUrl": "http://103.165.65.232:1006",
+    "companyName": "Harsh Jewellers",
+    "sProgramKey": "25438546789662975",
+    "isSkipOtp": true
   }
 
   
