@@ -1506,6 +1506,12 @@
     "companyName": "Harsh Jewellers",
     "sProgramKey": "25438546789662975",
     "isSkipOtp": true
+    },
+  "MJVJ1": {
+    "padmBaseUrl": "http://192.168.29.4:1005",
+    "companyName": "Moksh Jewels Gold and Diamond LLP",
+    "sProgramKey": "25438546789662975",
+    "isSkipOtp": true
   }
 
   
