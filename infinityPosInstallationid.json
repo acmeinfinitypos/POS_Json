@@ -1351,7 +1351,7 @@
     "isSkipOtp": true
   },
   "RGD1": {
-    "padmBaseUrl": "http://192.168.0.5:1005",
+    "padmBaseUrl": "http://192.168.2.200:1005",
     "companyName": "Roy gold and diamond",
     "sProgramKey": "25438546789662975",
     "isSkipOtp": true
