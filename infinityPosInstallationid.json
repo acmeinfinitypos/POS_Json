@@ -1512,6 +1512,12 @@
     "companyName": "Moksh Jewels Gold and Diamond LLP",
     "sProgramKey": "25438546789662975",
     "isSkipOtp": true
+    },
+  "PJVY1": {
+    "padmBaseUrl": "http://192.168.0.105:1005",
+    "companyName": "Prajyot Jew, Vani, Yavatmal",
+    "sProgramKey": "25438546789662975",
+    "isSkipOtp": true
         },
   "RAJG1": {
     "padmBaseUrl": "http://192.168.1.22:1005",
