@@ -1520,7 +1520,7 @@
     "isSkipOtp": true
     },
   "HVGB1": {
-    "padmBaseUrl": "http://192.168.0.105:1005",
+    "padmBaseUrl": "http://192.168.0.12:1005",
     "companyName": "Hari Vallabh Gold, Benglore",
     "sProgramKey": "25438546789662975",
     "isSkipOtp": true
