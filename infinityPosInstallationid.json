@@ -1536,17 +1536,21 @@
     "companyName": "Shraddha Jewellers, Satara",
     "sProgramKey": "25438546789662975",
     "isSkipOtp": true
-       },
-  "PJK1": {
+    },"PJK1": {
     "padmBaseUrl": "http://192.168.0.212:1005",
     "companyName": "Pushparaj Jewellers, Kalyan",
     "sProgramKey": "25438546789662975",
-    "isSkipOtp": true
-    
+    "isSkipOtp": true    
      },
   "RAJG1": {
     "padmBaseUrl": "http://192.168.1.22:1005",
     "companyName": "Radhika Gondia, Gondia",
+    "sProgramKey": "25438546789662975",
+    "isSkipOtp": true
+  },
+  "HVAJ1": {
+    "padmBaseUrl": "http://192.168.1.251:1005",
+    "companyName": "harivallabhi jew banglore",
     "sProgramKey": "25438546789662975",
     "isSkipOtp": true
   }
