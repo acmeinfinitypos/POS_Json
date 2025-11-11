@@ -1577,6 +1577,12 @@
     "companyName": "Padmavati Jewellers, Kalyan",
     "sProgramKey": "25438546789662975",
     "isSkipOtp": true
+    },
+  "SSSB1": {
+    "padmBaseUrl": "http://192.168.1.13:1005",
+    "companyName": "S S Saraf Buldhana",
+    "sProgramKey": "25438546789662975",
+    "isSkipOtp": true
      },
   "KJH1": {
     "padmBaseUrl": "http://124.123.97.53:1005",
