@@ -1613,6 +1613,12 @@
     "companyName": "Shree Jii Jewellers, Dadar and Nagar Haveli",
     "sProgramKey": "25438546789662975",
     "isSkipOtp": true
+    },
+  "AJR1": {
+    "padmBaseUrl": "http://192.168.1.107:1005",
+    "companyName": "Ambika Jewellers , Roha",
+    "sProgramKey": "25438546789662975",
+    "isSkipOtp": true
          },
   "AHPA1": {
     "padmBaseUrl": "http://192.168.1.103:1005",
