@@ -1619,6 +1619,12 @@
     "companyName": "Ambika Jewellers , Roha",
     "sProgramKey": "25438546789662975",
     "isSkipOtp": true
+        },
+  "KJD1": {
+    "padmBaseUrl": "http://192.168.1.107:1005",
+    "companyName": "Kanak Jewellers, Delhi",
+    "sProgramKey": "25438546789662975",
+    "isSkipOtp": true
          },
   "AHPA1": {
     "padmBaseUrl": "http://192.168.1.103:1005",
